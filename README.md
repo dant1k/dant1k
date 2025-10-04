@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Dan — building AI tools and Telegram bots</h1>
+<h1 align="center">👋 Hey, I'm Kos — building AI tools and Telegram bots</h1>
 
 <p align="center">
   <a href="https://github.com/dant1k/tg-summary-bot">🧩 TG Crypto Chat Summarizer Bot</a> •
