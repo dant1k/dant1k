@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/dant1k/tg-summary-bot">🧩 TG Crypto Chat Summarizer Bot</a> •
   <a href="https://t.me/chat1k_summarizer_bot">🤖 Telegram Bot</a> •
-  <a href="https://twitter.com/dant1kk">�� Twitter</a>
+  <a href="https://twitter.com/dant1kk">🐦 Twitter</a>
 </p>
 
 <p align="center">
@@ -32,7 +32,6 @@
 **[TG Crypto Chat Summarizer Bot](https://github.com/dant1k/tg-summary-bot)**  
 AI-powered Telegram bot that summarizes crypto chat discussions, detects `$tickers` and links,  
 and sends daily insights directly to your DM.
-
 ---
 
 ### 🧑‍💻 Connect
